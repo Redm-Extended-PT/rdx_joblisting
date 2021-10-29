@@ -1,6 +1,8 @@
 # rdx_joblisting
-- [RDX Framework Discord](https://discord.gg/VkhUUGHpNs)
+
 Simple job listing script, you can specify what jobs you want to be whitelisted in db.
+
+- [RDX Framework Discord](https://discord.gg/VkhUUGHpNs)
 
 ## Download & Installation
 
